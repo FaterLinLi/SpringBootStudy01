@@ -25,3 +25,4 @@
 
 点击Configure --> Settings，在Runner页面的VM Options添加：-DarchetypeCatalog=local，点击Apply，点击OK。
 
+3.Bean注解一般声明在方法上
